@@ -6,7 +6,7 @@ Exercises and activities for **CCDATSCL (Data Science)**, S.Y. 2026–2027.
 
 | # | Activity | Topic | Notebook |
 |---|----------|-------|----------|
-| 1 | Exercise 1 | NumPy Fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dhenielc15/SY.26-27_-CCDATSCL_EXERCISES/blob/main/Exercise_1_CCDATSCL.ipynb) |
+| 1 | Exercise 1 | NumPy Fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Dhenielc15/SY.26-27_-CCDATSCL_EXERCISES/blob/main/Exercise_1_CCDATSCL.ipynb](https://github.com/rpaulos/PaulosSY.26-27_-CCDATSCL_EXERCISES/blob/main/Exercise_1_Paulos.ipynb)) |
 
 *More activities will be added as the course progresses.*
 
